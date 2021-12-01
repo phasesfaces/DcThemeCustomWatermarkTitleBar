@@ -224,7 +224,7 @@ html.theme-light #app-mount::after {
     background-position: 10px center;
 }
 
-/* EDIT YOUR WATERMARK HERE */
+/* AMOLED-Cord Watermark */
 .titleBar-AC4pGV.typeWindows-1za-n7::after {
     content: "";
     position: absolute;
@@ -239,7 +239,7 @@ html.theme-light #app-mount::after {
     width: 0;
 }
 .titleBar-AC4pGV .wordmark-2iDDfm::after {
-    content: "phases";
+    content: "AMOLED-Cord";
     position: absolute;
     font-family: "Fredoka One";
     background: white;
